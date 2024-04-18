@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #bdc9da;
+    text-align: center;
+
+}
+#role{
+    font-size: 3em;
+    padding: 6px 25px;
+    border-radius: 7px;
+    color: #254fa1;
+}
+.labels{
+    color: #254fa1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+
+}
+#role:hover{
+    color: aliceblue;
+    background-color: rgb(50, 45, 45);
+    transform: background-color 0.25s;
+}
